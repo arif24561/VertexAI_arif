@@ -1,4 +1,4 @@
-# VertexAI_arif
+# History of commands
 1  gcloud auth list
 2  gcloud config list projec
 3  gcloud config set project vertex-ai-329015
